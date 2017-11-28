@@ -7,4 +7,4 @@
 
 Conception Files | Descritpion | Software
 -----------------|-------------|---------
-*Ex : Model.skp | 3D model of the product | Sketchup*
+*Ex : Model.skp* | *3D model of the product* | *Sketchup*
