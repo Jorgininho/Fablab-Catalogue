@@ -1,6 +1,10 @@
 # Conception File
 
-### This file shall store all the information related to the conception of the product. The goal is to allow anyone to retrieve, understand, reproduce and maybe enhance the conception of the product.
+### This file shall store all the information related to the conception of the product. The goal is to allow anyone to:
+- retrieve
+- understand
+- reproduce 
+- and maybe enhance the conception of the product.
 
 ## What is the purpose/concept of the product ?
 > Describes what is the purpose of your product ? If there are similar/comercial solutions that exists ? 
