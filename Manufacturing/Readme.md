@@ -5,7 +5,7 @@
 ## Raw material used for the mnufaturing
 Reference | Type (tag) | Description
 ----------|------------|------------
-A | Wood plate| raw wood plate dimension : l :300mm L:200mm : e: 12mm
+*A* | *Wood plate*| *raw wood plate dimension : l :300mm L:200mm : e: 12mm*
 
 
 ## Steps for manufacturing of the product ?
@@ -13,10 +13,10 @@ A | Wood plate| raw wood plate dimension : l :300mm L:200mm : e: 12mm
 
 Steps # | Type of operation (Tag) |  Description 
 --------|-------------------------|-------------
-1 | Gcode configuration | configure fusion to allows generation of Gcode 
-2 | Gcode convertion | convert 3D model to Gcode via the software Fusion 
-3 | CNC setup | Install the material **A** on the CNC
-4 | CNC Machining | Launch the machining for part1
+1 | *Gcode configuration* | *configure fusion to allows generation of Gcode *
+2 | *Gcode convertion* | *convert 3D model to Gcode via the software Fusion *
+3 | *CNC setup* | *Install the material **A** on the CNC*
+4 | *CNC Machining* | *Launch the machining for part1*
 
 
 
