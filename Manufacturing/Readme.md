@@ -10,6 +10,7 @@ A | Wood plate| raw wood plate dimension : l :300mm L:200mm : e: 12mm
 
 ## Steps for manufacturing of the product ?
 > Describes the different steps needed to go from a parent conception file to the actual manufacturing of the product
+
 Steps # | Type of operation (Tag) |  Description 
 --------|-------------------------|-------------
 1 | Gcode configuration | configure fusion to allows generation of Gcode 
