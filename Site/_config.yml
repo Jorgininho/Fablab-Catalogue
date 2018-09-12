@@ -1,2 +1,3 @@
-	name: InfiniFab Le Catalogue
-	markdown: kramdown
+name: InfiniFab Le Catalogue
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
