@@ -1,3 +1,3 @@
-	name: Infini Fab , Le Catalogue
-	markdown: kramdown
-  permalink: /blog/:year/:month/:day/:title
+name: Infini Fab , Le Catalogue
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
